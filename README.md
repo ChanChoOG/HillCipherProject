@@ -20,9 +20,8 @@ This project explores the Hill Cipher, a classic cryptographic technique, demons
 
 
 ## Current Status
-- [ ] Text Encryption/Decryption Implemented
+- [x] Text Encryption/Decryption Implemented
 - [ ] Image Encryption/Decryption Implemented
-- [ ] Optimization and Testing
 - [ ] Final Documentation
 
 (Note: Update the checklist as your project progresses.)
