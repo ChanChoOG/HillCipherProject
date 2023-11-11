@@ -2,9 +2,8 @@
 
 An application of linear algebra in cryptography using the Hill Cipher!
 
-License Repo Size Language
-
-WORK IN PROGRESS
+![Repo Size](https://img.shields.io/github/repo-size/ChanChoOG/HillCipherProject)
+![Language](https://img.shields.io/github/languages/top/ChanChoOG/HillCipherProject)
 
 ## Overview
 This project explores the Hill Cipher, a classic cryptographic technique, demonstrating the practical application of linear algebra in encrypting and decrypting text and images.
