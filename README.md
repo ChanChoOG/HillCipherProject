@@ -12,8 +12,8 @@ This project explores the Hill Cipher, a classic cryptographic technique, demons
 - [Nicolas Rodriguez], [rodrin34@my.erau.edu]
 - [Rose Ellen], [Hoker@my.erau.edu]
 - [Olivia Meholic], [meholico@my.erau.edu]
-- [Calla Robison], [Team Member 4 Email]
-- [Ashley Tirado], [Team Member 5 Email]
+- [Calla Robison], [callalilyr821@gmail.com]
+- [Ashley Tirado], [tiradopa@my.erau.edu]
 
 
 
