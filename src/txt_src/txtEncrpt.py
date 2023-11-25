@@ -21,7 +21,11 @@ def encrypt_block(block, key_matrix):
     return encrypted_text
 
 def main():
-    key = 'WELOVEBAC'
+
+    key = input('Enter the key you want to use: (Up to 9 characters)').upper()
+        #if key == '
+
+
     key_matrix = create_key_matrix(key)
 
     while True:
